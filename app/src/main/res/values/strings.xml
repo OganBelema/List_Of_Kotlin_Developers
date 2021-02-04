@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">List Of Kotlin Developers</string>
+    <string name="please_wait">Please wait</string>
+    <string name="back_button">Back button</string>
+    <string name="list_of_kotlin_developers_in_lagos">List of Kotlin developers in Lagos</string>
+    <string name="name"><b>Name:</b> %s</string>
+    <string name="company"><b>Company:</b> %s</string>
+    <string name="public_repos"><b>Public Repos:</b> %d</string>
+    <string name="followers"><b>Followers:</b> %d</string>
+    <string name="email"><b>Email:</b> %s</string>
+</resources>
